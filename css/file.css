@@ -1,4 +1,4 @@
-#body .box1 {
+.box1 {
   float: left;
   background-color: lightgrey;
   width: 25%;
@@ -6,14 +6,14 @@
   padding: 0px;
   margin: 20px;
 }
-#body .box1Body {
+.box1Body {
   float: left;
     font-family: Comic Sans MS, Comic Sans, cursive;
   background-color: lightgrey;
   margin: 10px;
   font-size: 14px;
 }
-#body .title1 {
+.title1 {
   float: right;
   text-align: center;
     font-family: Comic Sans MS, Comic Sans, cursive;
@@ -24,7 +24,7 @@
   margin: -2px;
   font-size: 18px;
 }
-#body .title2 {
+.title2 {
   float: right;
   font-family: Comic Sans MS, Comic Sans, cursive;
   text-align: center;
@@ -35,7 +35,7 @@
   margin: -2px;
   font-size: 18px;
 }
-#body .title3 {
+.title3 {
   float: right;
   text-align: center;
     font-family: Comic Sans MS, Comic Sans, cursive;
@@ -46,7 +46,7 @@
   margin: -2px;
   font-size: 18px;
 }
-#body p {
+p {
   font-family: Comic Sans MS, Comic Sans, cursive;
   text-align: center;
   font-size: 24px;
