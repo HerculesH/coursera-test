@@ -1,6 +1,6 @@
 @media screen and (max-width:767px) {
 .box1 {
-  float: left;
+  float: center;
   background-color: lightgrey;
   width: 100%;
   border: 2px solid black;
@@ -30,7 +30,7 @@
 }
 .box1Body {
   float: left;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans, bold;
   background-color: lightgrey;
   margin: 10px;
   font-size: 14px;
@@ -38,7 +38,7 @@
 .title1 {
   float: right;
   text-align: center;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans, bold;
   background-color: pink;
   border: 2px solid black;
   width: 30%;
@@ -48,7 +48,7 @@
 }
 .title2 {
   float: right;
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Comic Sans MS, Comic Sans, bold;
   text-align: center;
   background-color: red;
   border: 2px solid black;
@@ -60,7 +60,7 @@
 .title3 {
   float: right;
   text-align: center;
-    font-family: Comic Sans MS, Comic Sans, cursive;
+    font-family: Comic Sans MS, Comic Sans, bold;
   background-color: yellow;
   border: 2px solid black;
   width: 30%;
@@ -69,7 +69,7 @@
   font-size: 18px;
 }
 p {
-  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-family: Comic Sans MS, Comic Sans, bold;
   text-align: center;
   font-size: 24px;
 }
