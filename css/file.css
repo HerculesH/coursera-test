@@ -1,3 +1,24 @@
+@media screen and (max-width:767px) {
+.box1 {
+  float: left;
+  background-color: lightgrey;
+  width: 100%;
+  border: 2px solid black;
+  padding: 0px;
+  margin: 20px;
+}
+}
+@media screen and (max-width:991px), screen and (min-width:768px) {
+.box1 {
+  float: left;
+  background-color: lightgrey;
+  width: 50%;
+  border: 2px solid black;
+  padding: 0px;
+  margin: 20px;
+}
+}
+@media screen and (min-width:992px) {
 .box1 {
   float: left;
   background-color: lightgrey;
@@ -5,6 +26,7 @@
   border: 2px solid black;
   padding: 0px;
   margin: 20px;
+}
 }
 .box1Body {
   float: left;
