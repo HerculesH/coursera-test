@@ -1,4 +1,4 @@
-@media screen and (max-width:767px) {
+@media screen and (max-width:849px) {
 .box1 {
   float: left;
   background-color: blue;
@@ -9,7 +9,7 @@
   margin: 20px;
 }
 }
-@media screen and (max-width:991px), screen and (min-width:768px) {
+@media screen and (max-width:991px), screen and (min-width:850px) {
 .box1 {
   float: left;
   background-color: lightgrey;
