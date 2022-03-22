@@ -9,7 +9,7 @@
   margin: 20px;
 }
 .box3 {
-  float: left;
+  float: none;
   background-color: blue;
   width: 90%;
   transform: translateX(5%);
@@ -48,8 +48,8 @@
   margin: 20px;
 }
 .box3 {
-  float: left;
-  background-color: blue;
+  float: none;
+  background-color: purple;
   width: 30%;
   transform: translateX(5%);
   border: 2px solid black;
