@@ -2,7 +2,7 @@
 .box1 {
   float: left;
   background-color: lightgrey;
-  width: 747px;
+  width: 90%;
   border: 1px solid black;
   padding: 0px;
   margin: 20px;
@@ -10,7 +10,7 @@
 .box3 {
   float: left;
   background-color: lightgrey;
-  width: 747px;
+  width: 90%;
   border: 1px solid black;
   padding: 0px;
   margin: 20px;
@@ -20,7 +20,7 @@
 .box1 {
   float: left;
   background-color: lightgrey;
-  width: 485.5px;
+  width: 43%;
   border: 1px solid black;
   padding: 0px;
   margin: 20px;
@@ -28,7 +28,7 @@
 .box3 {
   float: left;
   background-color: lightgrey;
-  width: 971;
+  width: 91%;
   border: 1px solid black;
   padding: 0px;
   margin: 20px;
@@ -38,7 +38,7 @@
 .box1 {
   float: left;
   background-color: lightgrey;
-  width: 330.6px;
+  width: 28%;
   border: 1px solid black;
   padding: 0px;
   margin: 20px;
@@ -46,7 +46,7 @@
 .box3 {
   float: left;
   background-color: lightgrey;
-  width: 330.6px;
+  width: 28%;
   border: 1px solid black;
   padding: 0px;
   margin: 20px;
@@ -80,6 +80,7 @@
   padding: 10px;
   margin: -1px;
   font-size: 18px;
+  font-color: white;
 }
 .title3 {
   float: right;
