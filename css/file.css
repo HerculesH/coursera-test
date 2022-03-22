@@ -1,5 +1,5 @@
 @media screen and (max-width:767px) {
-.box1 {
+.topAndMidBoxes {
   float: left;
   background-color: lightgrey;
   width: 90%;
@@ -7,7 +7,7 @@
   padding: 0px;
   margin: 20px;
 }
-.box3 {
+.lastBox {
   float: left;
   background-color: lightgrey;
   width: 90%;
@@ -17,7 +17,7 @@
 }
 }
 @media screen and (min-width:768px) and (max-width:991px) {
-.box1 {
+.topAndMidBoxes {
   float: left;
   background-color: lightgrey;
   width: 43%;
@@ -25,7 +25,7 @@
   padding: 0px;
   margin: 20px;
 }
-.box3 {
+.lastBox {
   float: left;
   background-color: lightgrey;
   width: 91%;
@@ -35,7 +35,7 @@
 }
 }
 @media screen and (min-width:992px) {
-.box1 {
+.topAndMidBoxes {
   float: left;
   background-color: lightgrey;
   width: 28%;
@@ -43,7 +43,7 @@
   padding: 0px;
   margin: 20px;
 }
-.box3 {
+.lastBox {
   float: left;
   background-color: lightgrey;
   width: 28%;
@@ -52,14 +52,14 @@
   margin: 20px;
 }
 }
-.box1Body {
+.boxesBody {
   float: left;
     font-family: Comic Sans MS, Comic Sans, bold;
   background-color: lightgrey;
   margin: 10px;
   font-size: 14px;
 }
-.title1 {
+.topBoxTitle {
   float: right;
   text-align: center;
     font-family: Comic Sans MS, Comic Sans, bold;
@@ -70,7 +70,7 @@
   margin: -1px;
   font-size: 18px;
 }
-.title2 {
+.midBoxTitle {
   float: right;
   font-family: Comic Sans MS, Comic Sans, bold;
   text-align: center;
@@ -82,7 +82,7 @@
   font-size: 18px;
   color: white;
 }
-.title3 {
+.lastBoxTitle {
   float: right;
   text-align: center;
     font-family: Comic Sans MS, Comic Sans, bold;
