@@ -9,7 +9,6 @@
   margin: 20px;
 }
 .box3 {
-  float: none;
   background-color: blue;
   width: 90%;
   transform: translateX(5%);
@@ -28,7 +27,6 @@
   margin: 20px;
 }
 .box3 {
-  float: none;
   background-color: lightgrey;
   width: 49%;
   border: 2px solid black;
@@ -42,16 +40,13 @@
   float: left;
   background-color: purple;
   width: 30%;
-  transform: translateX(5%);
   border: 2px solid black;
   padding: 0px;
   margin: 20px;
 }
 .box3 {
-  float: none;
   background-color: purple;
   width: 30%;
-  transform: translateX(5%);
   border: 2px solid black;
   padding: 0px;
   margin: 20px;
