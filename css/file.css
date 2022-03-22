@@ -8,6 +8,13 @@
   padding: 0px;
   margin: 20px;
 }
+.box3Body {
+  float: left;
+    font-family: Comic Sans MS, Comic Sans, bold;
+  background-color: lightgrey;
+  margin: 10px;
+  font-size: 14px;
+}
 }
 @media screen and (min-width:850px) and (max-width:991px) {
 .box1 {
@@ -17,6 +24,14 @@
   border: 2px solid black;
   padding: 0px;
   margin: 20px;
+}
+.box3Body {
+  float: none;
+  overflow: hidden;
+    font-family: Comic Sans MS, Comic Sans, bold;
+  background-color: lightgrey;
+  margin: 10px;
+  font-size: 14px;
 }
 }
 @media screen and (min-width:992px) {
@@ -28,6 +43,13 @@
   border: 2px solid black;
   padding: 0px;
   margin: 20px;
+}
+.box3Body {
+  float: left;
+    font-family: Comic Sans MS, Comic Sans, bold;
+  background-color: lightgrey;
+  margin: 10px;
+  font-size: 14px;
 }
 }
 .box1Body {
