@@ -1,7 +1,7 @@
 @media screen and (max-width:849px) {
 .box1 {
   float: left;
-  background-color: blue;
+  background-color: lightgrey;
   width: 90%;
   border: 2px solid black;
   padding: 0px;
@@ -9,7 +9,7 @@
 }
 .box3 {
   float: left;
-  background-color: blue;
+  background-color: lightgrey;
   width: 90%;
   border: 2px solid black;
   padding: 0px;
@@ -20,7 +20,7 @@
 .box1 {
   float: left;
   background-color: lightgrey;
-  width: 49%;
+  width: 43%;
   border: 2px solid black;
   padding: 0px;
   margin: 20px;
@@ -28,7 +28,7 @@
 .box3 {
   float: left;
   background-color: lightgrey;
-  width: 93%;
+  width: 91%;
   border: 2px solid black;
   padding: 0px;
   margin: 20px;
@@ -37,7 +37,7 @@
 @media screen and (min-width:992px) {
 .box1 {
   float: left;
-  background-color: purple;
+  background-color: lightgrey;
   width: 28%;
   border: 2px solid black;
   padding: 0px;
@@ -45,7 +45,7 @@
 }
 .box3 {
   float: left;
-  background-color: purple;
+  background-color: lightgrey;
   width: 28%;
   border: 2px solid black;
   padding: 0px;
