@@ -9,7 +9,7 @@
   margin: 20px;
 }
 }
-@media screen and (max-width:991px), screen and (min-width:850px) {
+@media screen and (min-width:850px) and (max-width:991px) {
 .box1 {
   float: left;
   background-color: lightgrey;
