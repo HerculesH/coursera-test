@@ -1,8 +1,9 @@
 @media screen and (max-width:767px) {
 .box1 {
-  float: center;
+  float: left;
   background-color: lightgrey;
-  width: 100%;
+  width: 90%;
+  transform: translateX(5%);
   border: 2px solid black;
   padding: 0px;
   margin: 20px;
