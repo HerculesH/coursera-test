@@ -4,12 +4,6 @@
     font-size: 25px;
 }
 
-.navbar-toggler {
-    @include media-breakpoint-up(sm) { 
-     visibility: hidden;
-    }
-}
-
 .navbar-toggler.collapsed {
      border-color: black;
 }
