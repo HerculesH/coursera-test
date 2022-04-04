@@ -3,17 +3,6 @@
     padding-bottom: 15px;
     font-size: 25px;
 }
-@media (min-width: @screen-sm-min) {
-.navbar-toggler {
-     visibility: visible;
-}
-}
-
-@media (min-width: @screen-md-min) {
-.navbar-toggler {
-     visibility: hidden;
-}
-}
 
 .navbar-toggler.collapsed {
      border-color: black;
