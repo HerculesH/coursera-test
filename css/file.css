@@ -4,6 +4,10 @@
     font-size: 25px;
 }
 
+.navbar-toggler {
+    visibility: hidden;
+}
+
 .navbar-toggler.collapsed {
      border-color: black;
 }
