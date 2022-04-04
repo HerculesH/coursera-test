@@ -4,8 +4,15 @@
     font-size: 25px;
 }
 
-.navbar-toggler {
+@media (max-width: xs) {
+    .navbar-toggler {
     visibility: hidden;
+    }
+}
+@media (min-width: xs) {
+    .navbar-toggler {
+    visibility: visible;
+    }
 }
 
 .navbar-toggler.collapsed {
