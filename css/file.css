@@ -4,17 +4,34 @@
     font-size: 25px;
 }
 
+.navbar-toggler {
+    float: right;
+    padding: 15px;
+    margin: 15px;
+    width: 50px !important;
+    height: 50px !important;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(240,248,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-brand {
+    background-color: lightgray;
+}
+
 .navbar-toggler.collapsed {
      border-color: black;
 }
 
 .dropdown-item {
+    float: right;
+    font-size: 15px;
     text-align: center;
-    padding-top: 1px;
-    border-bottom: 2px solid black;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    background-color: white;
+    padding: 15px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    background-color: lightgray;
+    width:100%;
 }
 
 .menuItem {
